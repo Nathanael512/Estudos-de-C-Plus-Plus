@@ -25,6 +25,9 @@ int valorm3=909;
 int valorm4=459;
 int valorm5=879;
 int valorm6=19;
+int valorm7=8;
+int valorm8=4;
+int valorm9=246;
 
 int main() {
 
@@ -43,7 +46,8 @@ int main() {
     cout << " 7 X 459 + 879 = " << (vezes2*valorm4)+valorm5 << endl;
     cout << "45 X 789 / 459 = " << vezes6*valorm1/valorm4 << endl;
     cout << "10 X 909 X 7 / 19 = " << vezes3*valorm3*vezes5/valorm6 << endl;
-   
+    cout << "7 X 459 X 10 / 8 = " << vezes5*valorm4*vezes3/valorm7 << endl;
+    cout << "4 X 246 - 879 / 8 = " << (vezes1*valorm9-valorm5)/valorm7 << endl;
 
     return 0;
 
