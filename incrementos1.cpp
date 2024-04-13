@@ -2,8 +2,6 @@
 using namespace std;
 
 
-
-
 int main() {
 
     int n1=300,n2=560,n3=780,n4=850;
