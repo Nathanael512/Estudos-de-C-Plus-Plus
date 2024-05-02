@@ -34,7 +34,7 @@ int main() {
     }
     else
     {
-        cout << "nem vou ver o luar, hoje!" << endl;
+        cout << "Nem vou ver o luar, hoje!" << endl;
     }
 
     // -- If e Else - Parte 2 --
@@ -57,7 +57,7 @@ int main() {
     <40 - Reprovado!
     */
 
-    if (res >= 140)
+    if (res >= 60)
     {
         cout << "Aluno Aprovado!" << endl;
     }
