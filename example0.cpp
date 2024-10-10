@@ -1,0 +1,1 @@
+int numeros[10]; // Declara um vetor de 10 inteiros.
